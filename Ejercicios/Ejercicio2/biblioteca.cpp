@@ -10,7 +10,7 @@ string autor[39][3];
 void cargarLibros() {
     // Arreglo con categoria, descripcion y autor
 	libros[0][0] = "Algoritmos"; libros[0][1] = "Algoritmos y Programacion (Guia para docentes)";autor[0][2]="Brayan Raudales";
-	libros[1][0] = "Algoritmos"; libros[1][1] = "Apuntes de Algoritmos y Estructuras de Datos";autor[1][2]="celene suazo";
+	libros[1][0] = "Algoritmos"; libros[1][1] = "Apuntes de Algoritmos y Estructuras de Datos";autor[1][2]="Celene suazo";
 	libros[2][0] = "Algoritmos"; libros[2][1] = "Breves Notas sobre Analisis de Algoritmos";autor[2][2]="Janio Lezama";
 	libros[3][0] = "Algoritmos"; libros[3][1] = "Fundamentos de Informatica y Programacion";autor[3][2]="Jonathan Mejia";
 	libros[4][0] = "Algoritmos"; libros[4][1] = "Temas selectos de estructuras de datos";autor[4][2]="Patricia pineda";
@@ -115,7 +115,7 @@ int main(int argc, char const *argv[])
                 salir = true; 
                 break;
             }
-                break;
+                
             
             
         }
